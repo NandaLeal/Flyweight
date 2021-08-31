@@ -2,7 +2,7 @@ package br.edu.ifnmg.flyweight;
 
 /**
  *
- * @author USER
+ * @author Fernanda
  */
 import java.awt.*;
 import java.util.HashMap;

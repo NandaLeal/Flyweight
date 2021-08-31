@@ -2,7 +2,7 @@ package br.edu.ifnmg.flyweight;
 
 /**
  *Estado unico de cada arvore
- * @author USER
+ * @author Fernanda
  */
 import java.awt.*;
 

@@ -3,7 +3,7 @@ package br.edu.ifnmg.flyweight;
 
 /**
  *
- * @author USER
+ * @author Fernanda
  */
 import javax.swing.*;
 import java.awt.*;
